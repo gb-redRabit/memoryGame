@@ -10,4 +10,4 @@ Prosta gra memory
 
 ## Demo
 
-https://grzbejta.github.io/memoryGame/
+https://gb-redRabit.github.io/memoryGame/
